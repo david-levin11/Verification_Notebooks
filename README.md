@@ -25,6 +25,7 @@ Run the Code
 Follow the provided steps to authenticate cloud storage access and retrieve forecast guidance
 Analyze & Visualize
 Adjust parameters to generate maps, compare datasets, and verify event-specific forecasts
+Feel free to make copies of the notebooks and adjust them to suit your needs!
 ## 📬 Contact
 For questions, contributions, or collaboration, feel free to reach out!
 
